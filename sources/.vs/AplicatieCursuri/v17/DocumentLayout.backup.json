@@ -1,0 +1,1222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.shared\\aplicatiecursuri.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|solutionrelative:aplicatiecursuri.shared\\aplicatiecursuri.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|solutionrelative:aplicatiecursuri\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.shared\\datatrasferobjects\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|solutionrelative:aplicatiecursuri.shared\\datatrasferobjects\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|solutionrelative:aplicatiecursuri\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.shared\\datatrasferobjects\\studentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|solutionrelative:aplicatiecursuri.shared\\datatrasferobjects\\studentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|solutionrelative:aplicatiecursuri\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.shared\\datatrasferobjects\\parentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|solutionrelative:aplicatiecursuri.shared\\datatrasferobjects\\parentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.shared\\datatrasferobjects\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|solutionrelative:aplicatiecursuri.shared\\datatrasferobjects\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.shared\\datatrasferobjects\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B77E2E9-C640-444A-9F4E-692755149FE6}|AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj|solutionrelative:aplicatiecursuri.shared\\datatrasferobjects\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri\\entities\\parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|solutionrelative:aplicatiecursuri\\entities\\parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri\\entities\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|solutionrelative:aplicatiecursuri\\entities\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|solutionrelative:aplicatiecursuri\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\controllers\\courcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\controllers\\courcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\aplicatiecursuri.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\aplicatiecursuri.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\teacherservice\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\teacherservice\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\teacherservice\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\teacherservice\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\studentsservice\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\studentsservice\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\studentsservice\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\studentsservice\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\parentsservice\\iparentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\parentsservice\\iparentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\parentsservice\\parentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\parentsservice\\parentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\courseservice\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\courseservice\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\courseservice\\courceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\courseservice\\courceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\applicationuserservice\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\applicationuserservice\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\services\\applicationuserservice\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\services\\applicationuserservice\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005194BC-A0CA-4FB6-B469-C89FA419D2F8}|AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.infrastructure\\migrations\\20250219222703_initialm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005194BC-A0CA-4FB6-B469-C89FA419D2F8}|AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj|solutionrelative:aplicatiecursuri.infrastructure\\migrations\\20250219222703_initialm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005194BC-A0CA-4FB6-B469-C89FA419D2F8}|AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005194BC-A0CA-4FB6-B469-C89FA419D2F8}|AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj|solutionrelative:aplicatiecursuri.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005194BC-A0CA-4FB6-B469-C89FA419D2F8}|AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.infrastructure\\aplicatiecursuri.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{005194BC-A0CA-4FB6-B469-C89FA419D2F8}|AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj|solutionrelative:aplicatiecursuri.infrastructure\\aplicatiecursuri.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222356_InitialM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222050_InitialM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219220102_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri\\aplicatiecursuri.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EBF8ADF-E906-4613-8865-34094BA0E53B}|AplicatieCursuri\\AplicatieCursuri.Core.csproj|solutionrelative:aplicatiecursuri\\aplicatiecursuri.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85254879-080D-40B3-9A12-07B3278C076E}|AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.usecase\\aplicatiecursuri.usecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85254879-080D-40B3-9A12-07B3278C076E}|AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj|solutionrelative:aplicatiecursuri.usecase\\aplicatiecursuri.usecase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85254879-080D-40B3-9A12-07B3278C076E}|AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.usecase\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85254879-080D-40B3-9A12-07B3278C076E}|AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj|solutionrelative:aplicatiecursuri.usecase\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\loginwith2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\loginwith2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\resendemailconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\resendemailconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\twofactorauthentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\twofactorauthentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\resetauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\resetauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.server\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34408D0E-5844-85DE-B9B4-97CBFA6F34EE}|AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj|solutionrelative:aplicatiecursuri.server\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|c:\\users\\petra\\desktop\\courses\\aplicatie_cursuri\\aplicatiecursuri\\sources\\aplicatiecursuri.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE903E47-25A1-4C37-A5C1-B962736A674D}|AplicatieCursuri.Client\\AplicatieCursuri.Client.csproj|solutionrelative:aplicatiecursuri.client\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\StudentsDto.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Shared\\DataTrasferObjects\\StudentsDto.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\StudentsDto.cs",
+              "RelativeToolTip": "AplicatieCursuri.Shared\\DataTrasferObjects\\StudentsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:20:58.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Shared\\DataTrasferObjects\\TeacherDto.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\TeacherDto.cs",
+              "RelativeToolTip": "AplicatieCursuri.Shared\\DataTrasferObjects\\TeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:21:26.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Teacher.cs",
+              "RelativeToolTip": "AplicatieCursuri\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:50:29.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "AplicatieCursuri\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:45:25.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicatieCursuri.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj",
+              "RelativeToolTip": "AplicatieCursuri.Shared\\AplicatieCursuri.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T13:18:28.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Student.cs",
+              "RelativeToolTip": "AplicatieCursuri\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:14:05.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\ParentsDto.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Shared\\DataTrasferObjects\\ParentsDto.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\ParentsDto.cs",
+              "RelativeToolTip": "AplicatieCursuri.Shared\\DataTrasferObjects\\ParentsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:19:55.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\CourseDto.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Shared\\DataTrasferObjects\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\CourseDto.cs",
+              "RelativeToolTip": "AplicatieCursuri.Shared\\DataTrasferObjects\\CourseDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:19:35.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\ApplicationUserDto.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Shared\\DataTrasferObjects\\ApplicationUserDto.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Shared\\DataTrasferObjects\\ApplicationUserDto.cs",
+              "RelativeToolTip": "AplicatieCursuri.Shared\\DataTrasferObjects\\ApplicationUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:19:12.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Parents.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Parents.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri\\Entities\\Parents.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Parents.cs",
+              "RelativeToolTip": "AplicatieCursuri\\Entities\\Parents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:49:01.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Grades.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri\\Entities\\Grades.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Grades.cs",
+              "RelativeToolTip": "AplicatieCursuri\\Entities\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:48:10.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\Entities\\Course.cs",
+              "RelativeToolTip": "AplicatieCursuri\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:26:30.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:16:54.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:16:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParentsController.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\ParentsController.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Controllers\\ParentsController.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\ParentsController.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Controllers\\ParentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:15:55.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourceController.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\CourceController.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Controllers\\CourceController.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\CourceController.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Controllers\\CourceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:15:26.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Controllers\\ApplicationUserController.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Controllers\\ApplicationUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:15:00.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\TeacherService\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\TeacherService\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\TeacherService\\ITeacherService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\TeacherService\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:10:43.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\TeacherService\\TeacherService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\TeacherService\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\TeacherService\\TeacherService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\TeacherService\\TeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:10:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\StudentsService\\IStudentsService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\StudentsService\\IStudentsService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\StudentsService\\IStudentsService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\StudentsService\\IStudentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:09:41.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\StudentsService\\StudentsService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\StudentsService\\StudentsService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\StudentsService\\StudentsService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\StudentsService\\StudentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:09:21.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AplicatieCursuri.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj",
+              "RelativeToolTip": "AplicatieCursuri.Server\\AplicatieCursuri.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T14:33:16.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IParentsService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ParentsService\\IParentsService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\ParentsService\\IParentsService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ParentsService\\IParentsService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\ParentsService\\IParentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:08:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ParentsService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ParentsService\\ParentsService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\ParentsService\\ParentsService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ParentsService\\ParentsService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\ParentsService\\ParentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:08:03.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\CourseService\\ICourseService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\CourseService\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\CourseService\\ICourseService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\CourseService\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:04:43.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CourceService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\CourseService\\CourceService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\CourseService\\CourceService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\CourseService\\CourceService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\CourseService\\CourceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:04:25.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IApplicationUserService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ApplicationUserService\\IApplicationUserService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\ApplicationUserService\\IApplicationUserService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ApplicationUserService\\IApplicationUserService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\ApplicationUserService\\IApplicationUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:03:50.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUserService.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ApplicationUserService\\ApplicationUserService.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Services\\ApplicationUserService\\ApplicationUserService.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Services\\ApplicationUserService\\ApplicationUserService.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Services\\ApplicationUserService\\ApplicationUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:03:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250219222703_InitialM.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222703_InitialM.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Infrastructure\\Migrations\\20250219222703_InitialM.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222703_InitialM.cs",
+              "RelativeToolTip": "AplicatieCursuri.Infrastructure\\Migrations\\20250219222703_InitialM.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:27:03.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AplicatieCursuri.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:14:42.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AplicatieCursuri.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj",
+              "RelativeToolTip": "AplicatieCursuri.Infrastructure\\AplicatieCursuri.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T20:32:42.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250219222356_InitialM.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222356_InitialM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222356_InitialM.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222356_InitialM.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222356_InitialM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:23:56.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250219222050_InitialM.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222050_InitialM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222050_InitialM.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222050_InitialM.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219222050_InitialM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:20:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\appsettings.json",
+              "RelativeToolTip": "AplicatieCursuri.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T16:49:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250219220102_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219220102_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219220102_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219220102_InitialMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AplicatieCursuri\\sources\\AplicatieCursuri.Infrastructure\\Migrations\\20250219220102_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:01:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Program.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:52:12.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AplicatieCursuri.UseCase.csproj",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj",
+              "RelativeDocumentMoniker": "AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj",
+              "RelativeToolTip": "AplicatieCursuri.UseCase\\AplicatieCursuri.UseCase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T20:36:35.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AplicatieCursuri.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\AplicatieCursuri.Core.csproj",
+              "RelativeDocumentMoniker": "AplicatieCursuri\\AplicatieCursuri.Core.csproj",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri\\AplicatieCursuri.Core.csproj",
+              "RelativeToolTip": "AplicatieCursuri\\AplicatieCursuri.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T20:17:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.UseCase\\Class1.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.UseCase\\Class1.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.UseCase\\Class1.cs",
+              "RelativeToolTip": "AplicatieCursuri.UseCase\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:22:19.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\App.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T16:49:55.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\appsettings.Development.json",
+              "RelativeToolTip": "AplicatieCursuri.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T16:49:52.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\wwwroot\\app.css",
+              "RelativeToolTip": "AplicatieCursuri.Server\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-19T16:49:29.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AccessDenied.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\AccessDenied.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\AccessDenied.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T16:45:29.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Component.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Component.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:55:53.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ChangePassword.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ViewState": "AgIAAEsAAAAAAAAAAIBZwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:36:17.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Disable2fa.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:36:44.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\_Imports.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\_Imports.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\_Imports.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:38:01.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginWithRecoveryCode.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:36:05.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginWith2fa.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:35:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResendEmailConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:39:06.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:57:39.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ResetPassword.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ResetPassword.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ResetPassword.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ResetPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:40:05.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExternalLoginPicker.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:49:01.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBZwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:35:44.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ConfirmEmail.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:34:57.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ForgotPassword.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:35:40.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Program.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\Program.cs",
+              "RelativeToolTip": "AplicatieCursuri.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:28:53.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ExternalLogin.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:35:19.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ConfirmEmailChange.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:35:02.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RegisterConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:57.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:55.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TwoFactorAuthentication.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:53.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:42.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ResetAuthenticator.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:38.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PersonalData.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GenerateRecoveryCodes.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:18.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ExternalLogins.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EnableAuthenticator.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:37:02.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Email.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:36:54.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeletePersonalData.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:36:35.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Server\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Server\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "AplicatieCursuri.Server\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAIBZwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:33:46.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\_Imports.razor",
+              "RelativeToolTip": "AplicatieCursuri.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:28:53.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RedirectToLogin.razor",
+              "DocumentMoniker": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\RedirectToLogin.razor",
+              "RelativeDocumentMoniker": "AplicatieCursuri.Client\\RedirectToLogin.razor",
+              "ToolTip": "C:\\Users\\petra\\Desktop\\Courses\\aplicatie_cursuri\\AplicatieCursuri\\sources\\AplicatieCursuri.Client\\RedirectToLogin.razor",
+              "RelativeToolTip": "AplicatieCursuri.Client\\RedirectToLogin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T14:28:53.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

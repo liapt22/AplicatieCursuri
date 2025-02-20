@@ -1,0 +1,4 @@
+C:\Users\petra\Desktop\Courses\aplicatie_cursuri\AplicatieCursuri\sources\AplicatieCursuri.Client\wwwroot\appsettings.Development.json
+C:\Users\petra\Desktop\Courses\aplicatie_cursuri\AplicatieCursuri\sources\AplicatieCursuri.Client\wwwroot\appsettings.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
